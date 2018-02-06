@@ -1,0 +1,497 @@
+
+#dynamicBackgroundLink {
+        background-image: url(laterre.jpg);
+        background-color: #f9f9f9;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 1443px;
+       height: 998px;
+       overflow-y:hidden;
+       overflow-x:hidden;
+
+}
+
+#dynamicBackgroundLink2 {
+        background-image: url(laterred.jpg);
+        background-color: white;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 1443px;
+       height: 898px;
+       overflow-y:hidden;
+       overflow-x:hidden;
+
+
+}
+
+#onglet1{
+ position: fixed;
+ top: 60px;
+ left: 310px;
+  width: 200px;
+  height: 60px;
+}
+#onglet2{
+  position: fixed;
+  top: 60px;
+  left: 530px;
+   width: 200px;
+   height: 60px;
+  }
+#onglet3{
+  position: fixed;
+  top: 60px;
+  left: 750px;
+   width: 200px;
+   height: 60px;
+  }
+
+#onglet5{
+  position: fixed;
+  top: 60px;
+  left: 970px;
+   width: 200px;
+   height: 60px;
+  }
+  #Beyonce{
+    position: fixed;
+    top: 250px;
+    left: 355px;
+    width: 50px;
+    height: 50px;
+  }
+  #JayZ{
+    position: fixed;
+    top: 290px;
+    left: 400px;
+    width: 50px;
+    height: 50px;
+  }
+  #Cardi{
+    position: fixed;
+    top: 350px;
+    left: 320px;
+    width: 50px;
+    height: 50px;
+  }
+  #savage{
+    position: fixed;
+    top: 350px;
+    left: 430px;
+    width: 50px;
+    height: 50px;
+  }
+  #Maluma{
+    position: fixed;
+    top: 520px;
+    left: 450px;
+    width: 50px;
+    height: 50px;
+  }
+  #Laake{
+    position: fixed;
+    top: 280px;
+    left: 780px;
+    width: 50px;
+    height: 50px;
+  }
+  #Woodkid{
+    position: fixed;
+    top: 320px;
+    left: 690px;
+    width: 50px;
+    height: 50px;
+  }
+  #Stromae{
+    position: fixed;
+    top: 350px;
+    left: 720px;
+    width: 50px;
+    height: 50px;
+  }
+  #Helene{
+    position: fixed;
+    top: 320px;
+    left: 760px;
+    width: 50px;
+    height: 50px;
+  }
+  #Jane{
+    position: fixed;
+    top: 260px;
+    left: 710px;
+    width: 50px;
+    height: 50px;
+  }
+  #Nneka{
+    position: fixed;
+    top: 560px;
+    left: 750px;
+    width: 50px;
+    height: 50px;
+  }
+  #Ibtissam{
+    position: fixed;
+    top: 410px;
+    left: 680px;
+    width: 50px;
+    height: 50px;
+  }
+  #Star1{
+    position: fixed;
+    top: 495px;
+    left: 720px;
+    width: 50px;
+    height: 50px;
+  }
+  #Star2{
+    position: fixed;
+    top: 435px;
+    left: 750px;
+    width: 50px;
+    height: 50px;
+  }
+  #Star3{
+    position: fixed;
+    top: 510px;
+    left: 790px;
+    width: 50px;
+    height: 50px;
+  }
+  #Hussain{
+    position: fixed;
+    top: 260px;
+    left: 910px;
+    width: 50px;
+    height: 50px;
+  }
+  #Psy{
+    position: fixed;
+    top: 320px;
+    left: 1000px;
+    width: 50px;
+    height: 50px;
+  }
+  #Elissa{
+    position: fixed;
+    top: 315px;
+    left: 890px;
+    width: 50px;
+    height: 50px;
+  }
+  #Jong{
+    position: fixed;
+    top: 230px;
+    left: 1000px;
+    width: 50px;
+    height: 50px;
+  }
+  #Wafik{
+    position: fixed;
+    top: 385px;
+    left: 950px;
+    width: 50px;
+    height: 50px;
+  }
+  #Sia{
+    position: fixed;
+    top: 595px;
+    left: 1105px;
+    width: 50px;
+    height: 50px;
+  }
+  #Sam{
+    position: fixed;
+    top: 615px;
+    left: 1150px;
+    width: 50px;
+    height: 50px;
+  }
+  #Micky{
+    position: fixed;
+    top: 645px;
+    left: 1105px;
+    width: 50px;
+    height: 50px;
+  }
+  #Gotye{
+    position: fixed;
+    top: 665px;
+    left: 1150px;
+    width: 50px;
+    height: 50px;
+  }
+  #Kylie{
+    position: fixed;
+    top: 625px;
+    left: 1050px;
+    width: 50px;
+    height: 50px;
+  }
+  #Cardi1{
+    position: fixed;
+    top: 625px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Beyonce1{
+    position: fixed;
+    top: 515px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #savage1{
+    position: fixed;
+    top: 405px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #JayZ1{
+    position: fixed;
+    top: 295px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Maluma1{
+    position: fixed;
+    top: 180px;
+    left: 750px;
+    width: 495px;
+    height: 100px;
+  }
+  #Cardi2{
+    position: fixed;
+    top: 255px;
+    left: 200px;
+    width: 400px;
+    height: 400px;
+  }
+  #Elissa1{
+    position: fixed;
+    top: 625px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Psy1{
+    position: fixed;
+    top: 515px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Wafik1{
+    position: fixed;
+    top: 405px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Jong1{
+    position: fixed;
+    top: 295px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Hussain1{
+    position: fixed;
+    top: 185px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Elissa2{
+    position: fixed;
+    top: 255px;
+    left: 200px;
+    width: 400px;
+    height: 400px;
+  }
+  #Sia1{
+    position: fixed;
+    top: 625px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Kylie1{
+    position: fixed;
+    top: 515px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Gotye1{
+    position: fixed;
+    top: 405px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Micky1{
+    position: fixed;
+    top: 305px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Sam1{
+    position: fixed;
+    top: 195px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Sia2{
+    position: fixed;
+    top: 255px;
+    left: 200px;
+    width: 400px;
+    height: 400px;
+  }
+  #Nneka1{
+    position: fixed;
+    top: 625px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Ibtissam1{
+    position: fixed;
+    top: 515px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Star11{
+    position: fixed;
+    top: 405px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Star21{
+    position: fixed;
+    top: 295px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Star31{
+    position: fixed;
+    top: 175px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Nneka2{
+    position: fixed;
+    top: 255px;
+    left: 200px;
+    width: 400px;
+    height: 400px;
+  }
+  #Woodkid1{
+    position: fixed;
+    top: 625px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Stromae1{
+    position: fixed;
+    top: 515px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Laake1{
+    position: fixed;
+    top: 405px;
+    left: 750px;
+    width: 503px;
+    height: 100px;
+  }
+  #Jane1{
+    position: fixed;
+    top: 290px;
+    left: 750px;
+    width: 510px;
+    height: 100px;
+  }
+  #Helene1{
+    position: fixed;
+    top: 175px;
+    left: 750px;
+    width: 500px;
+    height: 100px;
+  }
+  #Woodkid2{
+    position: fixed;
+    top: 255px;
+    left: 200px;
+    width: 400px;
+    height: 400px;
+  }
+  #Contact{
+    position: fixed;
+    top: 300px;
+    left: 465px;
+    width: 550px;
+    height: 180px;
+  }
+  iframe {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    margin-left: 280px;
+    width: 900px;
+    height: 590px;
+
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    border-radius: 12px;
+
+    -moz-box-shadow: 4px 4px 14px #000;
+    -webkit-box-shadow: 4px 4px 14px #000;
+    box-shadow: 4px 4px 14px #000;
+
+
+  }
+  #spiritual {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    margin-left: 750px;
+    width: 400px;
+    height: 590px;
+
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    border-radius: 12px;
+
+    -moz-box-shadow: 4px 4px 14px #000;
+    -webkit-box-shadow: 4px 4px 14px #000;
+    box-shadow: 4px 4px 14px #000;
+
+
+  }
+
+
+  #img{
+      transform-origin:50% 50%;
+      animation:15s rotateRight infinite linear;
+      position: fixed;
+      width: 500px;
+      height: 500px;
+      top: 170px;
+      left: 100px;
+
+  }
+
+  @keyframes rotateRight{
+      100%{ transform:rotate(360deg); }
+  }
